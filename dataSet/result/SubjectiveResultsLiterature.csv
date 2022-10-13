@@ -1,0 +1,266 @@
+file ID,y,x,panel,study,Note,Feature,y-unit,x-feature,,check
+1,0.24,20,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+2,0.34,30,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+3,0.32,40,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+4,0.25,50,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+5,0.18,60,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+6,0.14,70,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+7,0.12,80,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+8,0.09,90,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+9,0.08,100,125,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+10,0.24,20,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+11,0.43,30,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+12,0.59,40,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+13,0.68,50,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+14,0.69,60,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+15,0.62,70,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+16,0.54,80,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+17,0.43,90,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+18,0.35,100,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+19,0.3,110,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+20,0.26,120,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+21,0.22,130,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+22,0.2,140,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+23,0.18,150,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+24,0.17,160,500,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+25,0.1,20,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+26,0.19,30,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+27,0.28,40,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+28,0.36,50,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+29,0.42,60,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+30,0.44,70,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+31,0.42,80,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+32,0.38,90,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+33,0.32,100,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+34,0.28,110,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+35,0.25,120,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+36,0.21,130,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+37,0.19,140,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+38,0.17,150,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+39,0.15,160,8000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+40,0.2,20,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+41,0.36,30,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+42,0.53,40,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+43,0.72,50,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+44,0.81,60,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+45,0.85,70,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+46,0.83,80,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+47,0.75,90,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+48,0.66,100,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+49,0.57,110,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+50,0.49,120,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+51,0.42,130,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+52,0.37,140,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+53,0.32,150,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+54,0.29,160,2000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+55,0.23,20,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+56,0.43,30,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+57,0.63,40,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+58,0.85,50,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+59,0.97,60,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+60,1.01,70,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+61,0.98,80,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+62,0.88,90,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+63,0.78,100,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+64,0.65,110,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+65,0.57,120,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+66,0.5,130,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+67,0.45,140,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+68,0.39,150,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+69,0.34,160,1000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+70,0.16,20,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+71,0.28,30,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+72,0.42,40,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+73,0.56,50,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+74,0.65,60,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+75,0.66,70,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+76,0.63,80,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+77,0.58,90,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+78,0.49,100,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+79,0.42,110,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+80,0.37,120,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+81,0.32,130,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+82,0.29,140,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+83,0.25,150,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+84,0.23,160,4000,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+85,0.23,20,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+86,0.4,30,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+87,0.49,40,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+88,0.49,50,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+89,0.4,60,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+90,0.32,70,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+91,0.25,80,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+92,0.2,90,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+93,0.17,100,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+94,0.15,110,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+95,0.13,120,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+96,0.1,130,250,Daniel and Weber 1997,Figure 3,Roughness,asper,fmod,,OK
+97,0.09,15,250,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+98,0.4,22,250,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+99,0.42,32,250,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+100,0.15,15,500,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+101,0.36,22,500,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+102,0.6,32,500,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+103,0.15,15,1000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+104,0.37,22,1000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+105,0.52,32,1000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+106,0.13,15,5000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+107,0.28,22,5000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+108,0.45,32,5000,Daniel and Weber 1997,Figure 4,Roughness,asper,fmod,,OK
+109,0.01,0.1,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+110,0.07,0.2,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+111,0.16,0.3,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+112,0.34,0.4,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+113,0.49,0.5,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+114,0.61,0.6,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+115,0.77,0.7,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+116,0.98,0.8,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+117,1.15,0.9,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+118,1.29,1,1000,Daniel and Weber 1997,Figure 5,Roughness,asper,Modulation depth,,
+119,0.003,0.1,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+120,0.03,0.2,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+121,0.09,0.3,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+122,0.15,0.4,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+123,0.24,0.5,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+124,0.34,0.6,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+125,0.46,0.7,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+126,0.6,0.8,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+127,0.71,0.9,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+128,0.78,1,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+129,0.79,1.1,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+130,0.76,1.2,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+131,0.72,1.3,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+132,0.68,1.4,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+133,0.64,1.5,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+134,0.58,1.6,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+135,0.54,1.7,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+136,0.5,1.8,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+137,0.47,1.9,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+138,0.44,2,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+139,0.39,2.1,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+140,0.37,2.2,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+141,0.35,2.3,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+142,0.33,2.4,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+143,0.3,2.5,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+144,0.29,2.6,300,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+145,0.003,0.1,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+146,0.04,0.2,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+147,0.1,0.3,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+148,0.18,0.4,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+149,0.29,0.5,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+150,0.48,0.6,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+151,0.62,0.7,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+152,0.76,0.8,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+153,0.96,0.9,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+154,1.12,1,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+155,1.24,1.1,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+156,1.3,1.2,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+157,1.3,1.3,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+158,1.26,1.4,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+159,1.2,1.5,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+160,1.13,1.6,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+161,1.04,1.7,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+162,0.98,1.8,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+163,0.93,1.9,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+164,0.88,2,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+165,0.84,2.1,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+166,0.79,2.2,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+167,0.75,2.3,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+168,0.72,2.4,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+169,0.68,2.5,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+170,0.65,2.6,1000,Daniel and Weber 1997,Figure 6,Roughness,asper,Modulation depth,,
+171,0.08,0.2,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+172,0.26,0.4,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+173,0.42,0.6,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+174,0.49,0.8,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+175,0.62,1,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+176,0.72,1.2,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+177,0.69,1.4,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+178,0.67,1.6,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+179,0.67,1.8,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+180,0.65,2,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+181,0.63,2.2,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+182,0.59,2.4,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+183,0.55,2.6,,Daniel and Weber 1997,Figure 7,Roughness,modulation depth of a 1kHz AM @50 Hz,modulation depth of a 300 Hz AM @50 Hz,,OK
+184,0.17,10,125,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+185,0.22,30,125,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+186,0.24,100,125,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+187,0.2,200,125,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+188,0.13,250,125,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+189,0.17,10,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+190,0.24,30,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+191,0.22,70,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+192,0.2,100,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+193,0.19,300,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+194,0.13,500,250,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+195,0.17,10,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+196,0.19,30,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+197,0.2,70,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+198,0.21,100,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+199,0.16,300,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+200,0.13,1000,500,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+201,0.08,10,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+202,0.09,30,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+203,0.15,70,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+204,0.19,100,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+205,0.19,300,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+206,0.13,1000,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+207,0.09,2000,1000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+208,0.08,10,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+209,0.15,30,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+210,0.18,70,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+211,0.27,100,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+212,0.29,150,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+213,0.2,300,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+214,0.18,1000,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+215,0.13,2000,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+216,0.1,4000,2000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+217,0.08,10,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+218,0.14,30,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+219,0.19,70,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+220,0.21,100,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+221,0.22,300,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+222,0.14,1000,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+223,0.09,2000,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+224,0.1,8000,4000,Daniel and Weber 1997,Figure 8,Roughness,asper,BW,,OK
+225,0,4,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+226,7.2,10,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+227,41.32,20,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+228,109.88,40,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+229,122.09,60,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+230,98.92,80,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+231,70.75,100,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+232,41.32,120,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+233,27.93,150,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+234,11.97,200,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+235,6.89,300,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+236,5.01,500,,Daniel and Weber 1997,Figure 9,Roughness,%,fmod,"R0 = 1.6 kHz FM tone (L= 60 dB, delta f = 800 Hz)",OK
+237,0,16,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+238,0,32,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+239,12.6,64,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+240,25.19,120,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+241,37.79,160,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+242,50.38,320,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+243,64.12,560,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+244,100.76,800,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+245,104.2,1000,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+246,116.79,1290,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+247,125.95,1440,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+248,123.66,1600,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM,"R0 = 1.6 kHz FM tone (L= 60 dB, fmod = 70  Hz)",OK
+249,0,16,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+250,0,32,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+251,6.9,64,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+252,13.79,120,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+253,27.59,160,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+254,41.38,320,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+255,77.01,560,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+256,101.15,800,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+257,140.23,1000,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+258,156.32,1290,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+259,172.41,1440,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+260,140.23,1600,,Daniel and Weber 1997,Figure 10,Roughness,%,Delta FM," r0 = rectangular AM white? Noise. fmod =70Hz, L=60dB, m=1",OK
+261,47.57,40,,Daniel and Weber 1997,Figure 11,Roughness,%,dB,"R0 = 1.6 kHz FM tone (delta f = 800 Hz, fmod = 70  Hz)",OK
+262,78.75,50,,Daniel and Weber 1997,Figure 11,Roughness,%,dB,"R0 = 1.6 kHz FM tone (delta f = 800 Hz, fmod = 70  Hz)",OK
+263,99.89,60,,Daniel and Weber 1997,Figure 11,Roughness,%,dB,"R0 = 1.6 kHz FM tone (delta f = 800 Hz, fmod = 70  Hz)",OK
+264,123.15,70,,Daniel and Weber 1997,Figure 11,Roughness,%,dB,"R0 = 1.6 kHz FM tone (delta f = 800 Hz, fmod = 70  Hz)",OK
+265,155.92,80,,Daniel and Weber 1997,Figure 11,Roughness,%,dB,"R0 = 1.6 kHz FM tone (delta f = 800 Hz, fmod = 70  Hz)",OK
